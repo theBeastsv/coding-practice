@@ -1,5 +1,3 @@
-const { json } = require("express");
-
 const a = [1, 2, 34, 6, 0, 201, 2331, 333, 1230, 25];
 // first we willl sort this with bubble sort
 
